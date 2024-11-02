@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Marcia</h1>
-<h3 align="left">Passionate Researcher in Medical Imaging & Computer Vision</h3>
+<h5 align="left">A passionate Researcher in Medical Imaging & Computer Vision</h5>
 
 - 🔭 I’m currently working on **Cardiac Image Segmentation**
 
