@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Cardiac Image Segmentation**
 
-- 📫 How to reach me **marciayang0916@gmail.com**
+- 📫 How to reach me: **marciayang0916@gmail.com**
 
-- 📄 Know about my experiences [website underdevelopment...]()
+- 📄 Know about my experiences: [website underdevelopment...]()
 
-- ⚡ Fun fact **I love badminton and am currently learning surfing!**
+- ⚡ Fun fact: **I love badminton and am currently learning surfing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
