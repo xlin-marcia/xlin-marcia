@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **marciayang0916@gmail.com**
 
-- 📄 Know about my experiences: [website underdevelopment...]()
+- 📄 Know about my experiences: [xlin-marcia.github.io](https://xlin-marcia.github.io/)
 
 - ⚡ Fun fact: **I love badminton and am currently learning surfing!**
 
